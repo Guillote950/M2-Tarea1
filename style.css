@@ -1,0 +1,76 @@
+body{
+	background-color: #bdbdbee3;
+}
+h1{
+	font-family: arial;
+	text-align: center;
+	color: rgb(16, 9, 107);
+	text-transform: uppercase;
+}
+hr{
+	color:black;
+}
+img{
+
+  	width:200px;
+  	height:200px;
+	display:block;
+	margin:left;
+	border-radius: 50%;
+	box-shadow: 20px 5px 40px black;
+	
+}
+
+h3{
+	font-family: italic	;
+	text-align: left;
+	color: white;
+	font-size: 20px;
+
+}
+
+
+p{
+	font-family: 'Roboto', sans-serif;
+ 	color: rgb(5, 1, 12);
+	padding-left: 10px;
+	padding-right: 10px;
+}	 
+	.texto {
+		background-color: rgb(170, 170, 168);
+		color:black;
+		padding: 5px;
+		column-count: 3;
+		column-gap: 5pc;
+		column-rule: 2px solid rgb(252, 251, 251);
+		box-shadow: 20px 5px 40px black;
+		border-radius: 5px;
+	  }
+
+
+.destacados{
+		color: rgb(7, 1, 63);
+		font-weight: bolder;
+}
+
+h4{
+    text-align: left;
+	color: rgb(12, 16, 250);
+	
+}
+
+.texto-fin{
+	color: red;
+	
+	}
+
+a{
+	text-decoration: none;	
+	color: rgb(17, 0, 255);
+}
+
+.texto-fin{
+color: red;
+font-family: 'Roboto', sans-serif;
+
+}
